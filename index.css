@@ -36,3 +36,9 @@ p {
 	font-family: "Courier New";
 	padding-top: 15px;
 }
+
+img {
+	width: 40%;
+	margin-left: 30%;
+	margin-right: 30%;
+}
