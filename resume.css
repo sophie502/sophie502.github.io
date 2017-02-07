@@ -1,0 +1,23 @@
+body {
+	background: linear-gradient(to bottom, #e4f5fc 0%,#bfe8f9 23%,#c0d9f9 39%,#c0d9f9 39%,#c0d9f9 40%,#6d77ed 100%);
+}
+
+h1 {
+	color: navy;
+}
+
+h3 {
+	color: navy;
+}
+
+p {
+	color: navy;
+}
+
+.job-title {
+	font-weight: bold;
+}
+
+.description {
+	font-style: italic;
+}

@@ -1,0 +1,32 @@
+body {
+	background: linear-gradient(to bottom, #e4f5fc 0%,#bfe8f9 23%,#c0d9f9 39%,#c0d9f9 39%,#c0d9f9 40%,#6d77ed 100%);
+}
+
+h1 {
+	color: navy;
+	text-align: center;
+	padding-top: 10px;
+
+}
+
+p {
+	color: navy;
+}
+
+.bio {
+	font-size: 20px;
+	text-align: center;
+}
+
+.bio-container {
+	outline: navy dashed;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.back-button {
+	color: navy;
+	text-align: center;
+}
