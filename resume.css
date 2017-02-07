@@ -33,11 +33,12 @@ p {
 	height: 100%;
 }
 
-.top-left {
+.top-left-button {
 	font-size: 50px;
 	padding-left: 30px;
-	color: #0d2449;
+	color: #890039;
 	font-family: "Courier New";
+	text-decoration: none;
 }
 
 .button {
@@ -45,7 +46,7 @@ p {
 	text-decoration: none;
 	font-size: 25px;
 	padding-right: 30px;
-	color: #0d2449;
+	color: #890039;
 	font-family: "Courier New";
 	padding-top: 15px;
 	
