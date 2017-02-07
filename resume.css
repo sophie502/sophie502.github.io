@@ -34,11 +34,11 @@ p {
 }
 
 .top-left-button {
+	text-decoration: none;
 	font-size: 50px;
 	padding-left: 30px;
 	color: #890039;
 	font-family: "Courier New";
-	text-decoration: none;
 }
 
 .button {
