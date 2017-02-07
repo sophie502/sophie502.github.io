@@ -1,11 +1,38 @@
 body {
-	background: linear-gradient(to bottom, #e4f5fc 0%,#bfe8f9 23%,#c0d9f9 39%,#c0d9f9 39%,#c0d9f9 40%,#6d77ed 100%);
+	background: linear-gradient(to bottom, #e4f5fc 0%,#bfe8f9 23%,#c0d9f9 39%,#c0d9f9 39%,#c0d9f9 40%,#c2c6ea 100%);
 }
 
 h1 {
-	color: navy;
+	color: #0d2449;
+	text-align: center;
+	font-family: "Courier New";
+	font-weight: lighter;
+	font-size: 50px;
 }
 
 p {
-	color: navy;
+	color: #0d2449;
+}
+
+.menu-bar {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: white;
+}
+
+.top-left {
+	font-size: 50px;
+	padding-left: 30px;
+	color: #0d2449;
+	font-family: "Courier New";
+}
+
+.button {
+	float: right;
+	text-decoration: none;
+	font-size: 25px;
+	padding-right: 30px;
+	color: #0d2449;
+	font-family: "Courier New";
+	padding-top: 15px;
 }
