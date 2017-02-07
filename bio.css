@@ -16,10 +16,10 @@ p {
 .bio {
 	font-size: 20px;
 	text-align: center;
+	outline: navy dashed;
 }
 
 .bio-container {
-	outline: navy dashed;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-top: 5px;
