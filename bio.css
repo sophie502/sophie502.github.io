@@ -8,7 +8,7 @@ h1 {
 	font-family: "Courier New";
 	font-weight: lighter;
 	font-size: 45px;
-	padding-top: 10px;
+	padding-top: 50px;
 	margin: 0;
 }
 
@@ -27,12 +27,25 @@ p {
 	height: 100%;
 }
 
-.top-left-button {
+.initials {
+	float: left;
 	text-decoration: none;
-	font-size: 50px;
+	font-size: 25px;
 	padding-left: 30px;
-	color: #890039;
+	color: #0d2449;
 	font-family: "Courier New";
+	padding-top: 15px;
+	font-weight: bold;
+}
+
+.initials:hover {
+	color: #890039;
+}
+
+.name {
+	color: #890039;
+	font-weight: normal;
+
 }
 
 .button {
@@ -43,6 +56,10 @@ p {
 	color: #890039;
 	font-family: "Courier New";
 	padding-top: 15px;
+}
+
+.button:hover {
+	color: #0d2449;
 }
 
 .bio {

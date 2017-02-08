@@ -9,7 +9,7 @@ h1 {
 	font-weight: lighter;
 	font-size: 45px;
 	margin: 0;
-	padding-top: 10px;
+	padding-top: 50px;
 }
 
 h3 {
@@ -32,15 +32,27 @@ p {
 
 .not-heading {
 	background: linear-gradient(to bottom, rgba(234,234,234,1) 0%,rgba(229,192,167,1) 75%); 
-	height: 125%;
+	height: 150%;
 }
 
-.top-left-button {
+.initials {
+	float: left;
 	text-decoration: none;
-	font-size: 50px;
+	font-size: 25px;
 	padding-left: 30px;
-	color: #890039;
+	color: #0d2449;
 	font-family: "Courier New";
+	padding-top: 15px;
+	font-weight: bold;
+}
+
+.initials:hover {
+	color: #890039;
+}
+
+.name {
+	color: #890039;
+	font-weight: normal;
 }
 
 .button {
@@ -51,9 +63,10 @@ p {
 	color: #890039;
 	font-family: "Courier New";
 	padding-top: 15px;
-	
-	
+}
 
+.button:hover {
+	color: #0d2449;
 }
 
 .resume-contents {
