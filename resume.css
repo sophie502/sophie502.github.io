@@ -14,6 +14,8 @@ h1 {
 
 h3 {
 	color: #0d2449;
+	font-size: 30px;
+	font-weight: normal;
 }
 
 p {
@@ -25,12 +27,12 @@ p {
 .menu-bar {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: #FCFCFC;
+	background-color: #EAEAEA;
 }
 
 .not-heading {
-	background: linear-gradient(to bottom, rgba(252,252,252,1) 0%,rgba(255,246,216,1) 100%); 
-	height: 100%;
+	background: linear-gradient(to bottom, rgba(234,234,234,1) 0%,rgba(229,192,167,1) 75%); 
+	height: 125%;
 }
 
 .top-left-button {
@@ -61,12 +63,28 @@ p {
 	padding-right: 10%;
 }
 
-#job {
+.skills {
+	text-indent: 20px;
+	line-height: 17px;
+}
+
+.school {
+	text-indent: 20px;
+	font-weight: bold;
+}
+
+.school-description {
+	text-indent: 20px;
+	font-style: italic;
+}
+
+.job {
 	text-indent: 20px;
 }
 
 .date {
 	font-weight: normal;
+	font-style: italic;
 }
 
 .job-title {
@@ -74,5 +92,10 @@ p {
 }
 
 .description {
-	font-style: italic;
+	font-style: normal;
+}
+
+.activity {
+	font-weight: bold;
+	text-indent: 20px;
 }
