@@ -33,6 +33,7 @@ p {
 .not-heading {
 	background: linear-gradient(to bottom, rgba(234,234,234,1) 0%,rgba(229,192,167,1) 75%); 
 	height: 150%;
+	padding-bottom: 75px;
 }
 
 .initials {
