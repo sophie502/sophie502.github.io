@@ -13,7 +13,7 @@ h1 {
 	margin: 0;
 }
 
-h2 {
+.writingsample {
 	color: #890039;
 	text-align: center;
 	font-family: "Courier New";
@@ -21,6 +21,11 @@ h2 {
 	font-size: 35px;
 	padding-top: 25px;
 	margin: 0;
+	text-decoration: none;
+	display:block;
+}
+.writingsample:hover {
+	color: #0d2449;
 }
 
 p {
