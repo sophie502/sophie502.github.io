@@ -1,0 +1,77 @@
+body {
+	margin: 0;
+}
+
+h1 {
+	color: #0d2449;
+	text-align: center;
+	font-family: "Courier New";
+	font-weight: lighter;
+	font-size: 50px;
+	padding-top: 50px;
+	margin: 0;
+}
+
+p {
+	color: #0d2449;
+}
+
+.menu-bar {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #EAEAEA;
+}
+
+.not-heading {
+	background: linear-gradient(to bottom, rgba(234,234,234,1) 0%,rgba(229,192,167,1) 75%); 
+	height: 100%;
+	padding-bottom: 300px;
+}
+
+.initials {
+	float: left;
+	text-decoration: none;
+	font-size: 25px;
+	padding-left: 30px;
+	color: #0d2449;
+	font-family: "Courier New";
+	padding-top: 15px;
+	font-weight: bold;
+}
+
+
+.name {
+	color: #890039;
+	font-weight: normal;
+
+}
+
+.button {
+	float: right;
+	text-decoration: none;
+	font-size: 25px;
+	padding-right: 30px;
+	color: #890039;
+	font-family: "Courier New";
+	padding-top: 15px;
+}
+
+.button:hover {
+	color: #0d2449;
+}
+
+img {
+	width: 40%;
+	margin-left: 30%;
+	margin-right: 30%;
+	padding-top: 30px;
+}
+
+.quote {
+	font-family: "Verdana";
+	text-align: center;
+	padding-top: 30px;
+	color: #890039;
+	font-size:18px;
+	padding-bottom: 150px;
+}
