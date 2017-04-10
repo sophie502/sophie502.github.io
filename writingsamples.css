@@ -7,9 +7,9 @@ h1 {
 	text-align: center;
 	font-family: "Courier New";
 	font-weight: lighter;
-	font-size: 50px;
-	padding-top: 100px;
-	padding-bottom: 35px;
+	font-size: 45px;
+	padding-top: 50px;
+	padding-bottom: 30px;
 	margin: 0;
 }
 
@@ -26,10 +26,28 @@ h1 {
 }
 .writingsample:hover {
 	color: #0d2449;
+	text-align: center;
+	font-family: "Courier New";
+	font-weight: lighter;
+	font-size: 35px;
+	padding-top: 25px;
+	margin: 0;
 }
 
 p {
 	color: #0d2449;
+}
+
+.post-description {
+	color: #0d2449;
+	text-align: center;
+	font-family: "Courier New";
+	font-weight: lighter;
+	font-size: 20px;
+	padding-bottom: 30px;
+	margin: 0;
+	font-style: italic;
+
 }
 
 .menu-bar {
